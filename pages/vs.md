@@ -38,9 +38,6 @@ Example
 Important
 #+END_IMPORTANT
 ##
-#+BEGIN_COMMENT
-comment inside
-#+END_COMMENT
 ##
 #+BEGIN_EXPORT
 export
