@@ -2,5 +2,6 @@
 title: Vs
 ---
 
-## [[https://asset.logseq.com/static/img/logo.png][image]]
+## [[https://anvaka.github.io/vs/?query=random%20forest][image]]
+##
 ##
