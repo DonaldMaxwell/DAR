@@ -37,7 +37,6 @@ Example
 #+BEGIN_IMPORTANT
 Important
 #+END_IMPORTANT
-##
 ## ((5fc6830f-8a5a-4a54-9a00-1cf06056d6ab)) fits here because it's a platform
 ## [#A] A1
 ## [#B] B2
