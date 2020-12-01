@@ -45,6 +45,7 @@ comment inside
 #+BEGIN_EXPORT
 export
 #+END_EXPORT
+## ((5fc6830f-8a5a-4a54-9a00-1cf06056d6ab)) this fits here because it's a platform
 ##
 This is src
 #+END_SRC
