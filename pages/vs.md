@@ -48,6 +48,6 @@ export
 ## ((5fc6830f-8a5a-4a54-9a00-1cf06056d6ab)) fits here because it's a platform
 ## [#A] A1
 ## [#B] B2
-##
+## {{{embed ((5fc682cc-bd8f-4fd7-87bf-1324925c57f0)) }}}
 This is src
 #+END_SRC
