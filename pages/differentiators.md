@@ -3,7 +3,7 @@ title: Differentiators
 ---
 
 ## What is unique or better about our solution than our competitors? (what we bring that is different and a benefit to CMS)?
-## OK, so what if I say more here? [[2020-12-01-14-17-29-delme.excalidraw]]
+##
 ###
 ## We understand healthcare and have access to quickly pull in healthcare SMEs to advise on latest innovations.
 ## We not only develop our products but use them for the success of our business. We have a vested interest / common mission to innovate and improve our ROI for FWA activities.
