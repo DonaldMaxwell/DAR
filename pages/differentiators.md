@@ -9,10 +9,3 @@ title: Differentiators
 ## We understand metrics / models to truly distinguish and measure effective ROI.
 ## We have insights into internal challenges with linking ROI to specific CPI initiatives / programs.
 ## Optimization: able to “tune applications” and turn into high performance
-## Differentiators
-
-We understand healthcare and have access to quickly pull in healthcare SMEs to advise on latest innovations. 
-We not only develop our products but use them for the success of our business. We have a vested interest / common mission to innovate and improve our ROI for FWA activities. 
-We understand metrics / models to truly distinguish and measure effective ROI.
-We have insights into internal challenges with linking ROI to specific CPI initiatives / programs.
-Optimization: able to “tune applications” and turn into high performance
