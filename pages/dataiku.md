@@ -27,10 +27,8 @@ title: Dataiku
 ### [#A] first
 ### [#B] sec
 ### DEADLINE: <2020-12-18 Fri>
-### @@html: <href: www.example.com> @@
 ###
-###
-###
-###
-###
+#+BEGIN_QUERY
+
+#+END_QUERY
 ## [[Differentiators]]
