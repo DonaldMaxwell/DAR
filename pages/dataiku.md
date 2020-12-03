@@ -26,7 +26,8 @@ title: Dataiku
 :END:
 ### [#A] first
 ### [#B] sec
-### DEADLINE: <2020-12-18 Fri>
+### DEADLINE: <2020-12-18 Fri> gjhk m
+###
 ###
 ###
 ###
