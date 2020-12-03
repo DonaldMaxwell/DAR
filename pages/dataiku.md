@@ -27,6 +27,7 @@ title: Dataiku
 ### [#A] first
 ### [#B] sec
 ### DEADLINE: <2020-12-18 Fri>
+### @@html: <href: www.example.com> @@
 ###
 ###
 ###
