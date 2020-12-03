@@ -29,7 +29,7 @@ title: Dataiku
 ### DEADLINE: <2020-12-18 Fri>
 ##
 ##
-##
+## [[https://cdn.logseq.com/%2Ffa1a3280-8cfb-47f3-b70c-10bf0b2ae7332020_12_03_trends.google.com_trends_explore_geo%3DUS%26q%3D%252Fg%252F11bzyqdcsn%2C%252Fm%252F0124tkwx%2C%252Fg%252F11h3yhqxn_%2C%252Fg%252F11f017ds55%2C%252Fm%252F0120wgnc%20%283%29.png?Expires=4760610755&Signature=X3hZbngpcjSiPqAm4Av~ZZIlqX3nPMz8vDiBN92RovBBQqUtSuf7ZXQgf9G1u7VbsJlnzFbHBdWyGDEGSsagCVgKnPFXACeJ9LKvuXnGFnxgjhDEWw~Ex1JU8lnvkb2iWSBYUyIv1JOR4HfuB7Y0MnULPpmtm0vV68hzIuAmBwIzyMsHU9CJ8mERDJvFFjsfSZlj0cQm7-L0suQCq3C0gVbQX2X0Woo3B-1cyiPKOrfwPGU~ySrOMHsaUbus55eDY55ZtM3N55zFbG6oV~9dLTrp9DbpRwnlQSHVN83GPBhcdAvDitqSY5qpVjp8nEGd4R9esUaYG8jL7WYGwkMp3g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_12_03_trends.google.com_trends_explore_geo=US&q=%2Fg%2F11bzyqdcsn,%2Fm%2F0124tkwx,%2Fg%2F11h3yhqxn_,%2Fg%2F11f017ds55,%2Fm%2F0120wgnc (3).png]]
 ## [[https://cdn.logseq.com/%2Ffa1a3280-8cfb-47f3-b70c-10bf0b2ae7332020_12_03_trends.google.com_trends_explore_geo%3DUS%26q%3D%252Fg%252F11bzyqdcsn%2C%252Fm%252F0124tkwx%2C%252Fg%252F11h3yhqxn_%2C%252Fg%252F11f017ds55%2C%252Fm%252F0120wgnc.png?Expires=4760608699&Signature=EmWbRwEBIR9Zr2QZN7wQQQnnlVAwHSQGzA44FD3JYY1bYpcV~Led8huAa5jLsOK8ImM9JN8NMwuJmmKCxQeEjBKlDVNOpocI5PwuKWGm5-26t-BSF0XpA79yL~boXbt5X5m7uvZmNvFYAj-ZCCUm0IdB12Se3yGSnw4CbzmexMoPXk4ppUyX~tQewP7EQBaeeMt-3xxlA8oxffhoy3M0zbyYFBKW6cMjWrRWuweTVPF47TvwN9F~ygGwlv0aHU8yVFAI8xStno6yBjssWwr6vmXY59QYUdu7qxeFdzc09kkPichSNX5yzMfefW57aKNsU7Yi~gCR84r3TfPVdwiYHQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_12_03_trends.google.com_trends_explore_geo=US&q=%2Fg%2F11bzyqdcsn,%2Fm%2F0124tkwx,%2Fg%2F11h3yhqxn_,%2Fg%2F11f017ds55,%2Fm%2F0120wgnc.png]]
 ## [[Differentiators]]
 ##
