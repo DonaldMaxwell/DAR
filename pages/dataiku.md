@@ -18,11 +18,15 @@ title: Dataiku
 :PROPERTIES:
 :todo: 1606962256326
 :END:
-### NOW adfg
+### LATER adfg
 :PROPERTIES:
 :doing: 1606962997751
 :done: 1606963002323
 :later: 1606963003641
 :END:
+### [#A] first
+### [#B] sec
+###
+###
 ###
 ## [[Differentiators]]
