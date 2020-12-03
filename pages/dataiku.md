@@ -18,7 +18,7 @@ title: Dataiku
 :PROPERTIES:
 :todo: 1606962256326
 :END:
-### LATER adfg
+### NOW adfg
 :PROPERTIES:
 :doing: 1606962997751
 :done: 1606963002323
