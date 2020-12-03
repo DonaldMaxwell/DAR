@@ -28,7 +28,8 @@ title: Dataiku
 ### [#B] sec
 ### DEADLINE: <2020-12-18 Fri>
 ##
-## [[https://cdn.logseq.com/%2Ffa1a3280-8cfb-47f3-b70c-10bf0b2ae7332020_12_03_trends.google.delme.png?Expires=4760611623&Signature=E5XuNNd5-edjfI08E46hcQWuvJM4OCBA3euevzNuxoYbRlzh5Y~9CsmKmLV5GkCA~5Ydc0Eaqg2CL9cuhItutSFNmqYZS0wMVpVBoUK5KYVdgxeiMUmcepTXWbQwY1-xTyYNT9T31BS06aOa7mB-2w~Dq-7CG0vq5MuKXyC9RG3cZambZobaOF-iTfcPCcRxltVSLYgTgP9jZK2rytXGUhLeKaxH5kLMhObWDeMMjYBJpOUmspbV-FT8PZv95FLIbjHPc-HZtkrcjmXFWD8VfLcr7aY675f76sNNvc9trrcjsYSrVuBLMRBx4BDQQBDoAh0KkpnG3Dtxh7SoWYpfRg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_12_03_trends.google.delme.png]]
+## [[https://cdn.logseq.com/%2Ffa1a3280-8cfb-47f3-b70c-10bf0b2ae7332020_12_03_trends.google.delme.png?Expires=4760611623&Signature=E5XuNNd5-edjfI08E46hcQWuvJM4OCBA3euevzNuxoYbRlzh5Y~9CsmKmLV5GkCA~5Ydc0Eaqg2CL9cuhItutSFNmqYZS0wMVpVBoUK5KYVdgxeiMUmcepTXWbQwY1-xTyYNT9T31BS06aOa7mB-2w~Dq-7CG0vq5MuKXyC9RG3cZambZobaOF-iTfcPCcRxltVSLYgTgP9jZK2rytXGUhLeKaxH5kLMhObWDeMMjYBJpOUmspbV-FT8PZv95FLIbjHPc-HZtkrcjmXFWD8VfLcr7aY675f76sNNvc9trrcjsYSrVuBLMRBx4BDQQBDoAh0KkpnG3Dtxh7SoWYpfRg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2020_12_03_trends.google.delme1
+## .png]]
 ## [[Differentiators]]
 ##
 ## {{{embed ((5fc7f649-86a6-4e58-af30-534bf2b0d28b)) }}}
